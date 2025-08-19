@@ -1,8 +1,8 @@
-# TP Implementación – Grupo 01
+# TP Implementación – Grupo M
 
 ## Integrantes
 - Uriel Arias – @Ariasuriel12
-- Enzo Parada – @EnzoPara
+- Enzo Parada – @EnzoParada
 
 ## Temática
 API de clima (consulta de ciudades y pronóstico).
